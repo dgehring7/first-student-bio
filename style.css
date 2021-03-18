@@ -5,8 +5,17 @@
     color: whitesmoke;
 }
 
-.Student-bio {
-    background-color: orangered;
+p {
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 35px;
 }
 
 .masthead {
@@ -17,5 +26,17 @@
 }
 
 img {
-    align-content: center;
+    align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+ul:link {
+    color: greenyellow;
+}
+
+ul {
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
 }
